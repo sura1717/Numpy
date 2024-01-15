@@ -1,2 +1,2 @@
 # Numpy
-during learning (machine learning)
+during learning (machine learning,data science)
